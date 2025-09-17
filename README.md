@@ -56,7 +56,7 @@ Created **4 visualizations** using Matplotlib & Seaborn:
 
 1.Clone this repository:
 
-git clone https://github.com/Video_games_sales_analysis
+git clone https://github.com/Jenny-light/Video_games_sales_analysis.git
 
 
 2.Navigate into the folder:
